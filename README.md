@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @COV-1337
+- 👀 I’m interested in rust cheats.
+- 🌱 I’m currently learning cs-sharp.
+- 💞️ I’m looking to collaborate on re-selling, https://discord.gg/qRxA289bpn
+- 📫 How to reach me, Discord - COV-1337#9223
